@@ -1,0 +1,17 @@
+{
+  "name": "quete5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.5.1",
+    "cypress-mochawesome-reporter": "^3.2.3"
+  }
+}
